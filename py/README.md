@@ -1,7 +1,8 @@
 ## Examples
 
 - concatenating record batches & tables with different columns
-- preserve any attached metadata
+  - preserve any attached metadata
+- union arrays
 
 ## Setup
 
