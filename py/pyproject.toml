@@ -1,0 +1,12 @@
+[project]
+name = "pyarrow-ex"
+version = "0.1.0"
+description = "PyArrow examples"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+ "ipython>=8.37.0",
+ "pyarrow>=20.0",  # for pa.concat_batches
+ "pytest",
+ "rich",
+]
